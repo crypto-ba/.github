@@ -1,10 +1,10 @@
 # Crypto.ba community
 Prestanite čekati. Počnite graditi!
-- FEX Berza
-trade.crypto.ba
-- RXC
+- CEX Berza
+cex.ba
+- RuxCrypto
 rxc.crypto.ba
-- Games
+- RxcGames
 rxcgames.com
 - Zajednica
 forum.crypto.ba
