@@ -1,33 +1,20 @@
-# **Crypto.ba Community**
+# Crypto.ba Community
 
 Prestanite čekati. Počnite graditi!
 
-🚀 CEX Berza
+🤝 **Zajednica**
+- Pridružite se razgovoru na [Crypto.ba Forumu](https://crypto.ba) i delite svoja iskustva.
 
-    Posetite CEX Berza za vaše kripto transakcije.
+🌐 **Glavni Sajt:**
+- Posetite [info.crypto.ba](https://info.crypto.ba) za najnovije vesti i informacije.
 
-💼 RuxCrypto
+🚀 **CEX Berza**
+- Posetite [CEX Berza](https://cex.ba) za vaše kripto transakcije.
 
-    Pogledajte RuxCrypto za najnovije informacije o kripto svetu.
+💼 **RuxCrypto**
+- Pogledajte [RuxCrypto](https://rxc.crypto.ba) za najnovije informacije o kripto svetu.
 
-🎮 RxcGames
-
-    Igrajte se na RxcGames - zabava uz kripto!
-
-🤝 Zajednica
-
-    Pridružite se razgovoru na Crypto.ba Forumu i delite svoja iskustva.
-
-🌐 Glavni Sajt:
-
-    Posetite info.crypto.ba za najnovije vesti i informacije.
-
-🚀 GitHub Repository Read Me:
-
-    Dobrodošli na GitHub repo našeg projekta! Pogledajte readme za više informacija.
-
-🌐 Forum:
-
-    Za šire diskusije, posetite naš glavni forum.
+🎮 **RxcGames**
+- Igrajte se na [RxcGames](https://rxcgames.com) - zabava uz kripto!
 
 Pratite nas, gradite zajedno, i zajedno rastemo u svetu kriptovaluta! 🌐🚀
